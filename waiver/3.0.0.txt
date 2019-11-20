@@ -1,0 +1,35 @@
+License Zero Private Waiver {{{version}}}
+
+Beneficiary:  {{{beneficiary}}}
+              {{{beneficiaryJurisdiction}}} (ISO 3166-2)
+
+Licensor:     {{{licensor}}}
+              {{{licensorJurisdiction}}} (ISO 3166-2)
+
+Agent:        {{{agent}}}
+              {{{agentJurisdiction}}} (ISO 3166-2)
+              {{{agentWebsite}}}
+
+Project:      {{{projectID}}}
+              {{{description}}}
+              {{{homepage}}}
+
+Date:         {{{date}}} (ISO 8601)
+
+Term:         {{#term}}{{{term}}} calendar days{{/term}}{{^term}}forever{{/term}}
+
+Licensor hereby irrevocably waives the terms of the public
+license that Licensor granted for the Project that require
+release of source code or limit commercial use:
+
+1.  for the Project
+
+2.  for the Beneficiary, as well as Beneficiary employees
+    and natural-person independent contractors providing
+    services to Beneficiary
+
+3.  for the Term
+
+Licensor expects Beneficiary, its employees, and its
+contractors to rely on this waiver in using the Project
+without an additional license.
